@@ -5,7 +5,7 @@ Prerequisites :
 Before running this application, ensure you have the following installed:
 - Web browser (Google Chrome, Mozilla Firefox, etc.)
 - XAMPP or any other web server package that includes Apache and MySQL.
-- 
+
 Installation :
 - Clone the repository : git clone https://github.com/your-username/hotelManagement.git
 - Navigate to project directory : cd hotelManagement
